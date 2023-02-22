@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;800&display=swap');
 
 *{
   box-sizing: border-box;
@@ -38,4 +39,35 @@ nav a{
   color : white;
 }
 
+#special-link {
+  border-radius : 2px;
+  background : linear-gradient(93.71deg,#8930ef,#ce2cbe);
+  padding : 15px 22px 15px 22px;
+  font-weight : 700;
+  letter-spacing : 0.5px;
+  font-size : 15px;
+}
 
+.hero-content {
+  display : flex;
+  flex-direction : row;
+  justify-content : space-between;
+  align-items : center;
+  padding : 10px 105px 10px 105px;
+  background-image : url(C:\Users\abhis\repos\Landing-Page-Portfolio\landing-page-portfolio\public\BG-2.png);
+}
+
+.hero-part1 {
+  color : white;
+}
+
+.hero-part1 a{
+  text-decoration : none;
+  color : white;
+}
+
+.hero-part1 h1 {
+  font-size : 44px;
+  font-family : 'Mulish', sans-serif;
+  font-weight : 800;
+}

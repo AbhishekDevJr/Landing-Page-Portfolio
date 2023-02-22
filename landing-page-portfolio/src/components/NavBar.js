@@ -23,7 +23,7 @@ function NavBar(){
                     <li><a href = "">Partners</a></li>
                     <li><a href = "">How it works</a></li>
                     <li><a href = "">Support</a></li>
-                    <li id = "special-link"><a href = "">Join Community</a></li>
+                    <li><a href = "" id = "special-link">Join Community</a></li>
                 </ul>
             </nav>
         </div>
